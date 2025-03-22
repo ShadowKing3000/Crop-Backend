@@ -5,3 +5,4 @@ pydantic
 pandas
 lightgbm
 scikit-learn
+uvicorn
